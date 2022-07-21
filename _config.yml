@@ -1,6 +1,6 @@
 name: Itai
 url: http://example.org
-description: cute & smart
+description: cute + smart
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
