@@ -1,6 +1,6 @@
-name: Under Construction
+name: Itai Bassi
 url: http://example.org
-description: website for itai
+description: smart + cute
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
