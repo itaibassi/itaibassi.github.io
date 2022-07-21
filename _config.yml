@@ -1,6 +1,6 @@
-name: Itai
+name: Solar Theme
 url: http://example.org
-description: cute + smart
+description: hi
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
