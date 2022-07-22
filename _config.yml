@@ -1,6 +1,6 @@
 name: Itai Bassi
 url: http://example.org
-description: smart + cute
+description:  Pondering about language. Or making a joke.
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
