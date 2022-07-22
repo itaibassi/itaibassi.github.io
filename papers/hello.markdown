@@ -4,7 +4,7 @@ title: Papers
 ---
 
 
-<h1> Upcoming </h1>
+Upcoming
 
 
 The ellipsis paper with Justin
