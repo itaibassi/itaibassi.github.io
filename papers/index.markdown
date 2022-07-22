@@ -7,7 +7,6 @@ title: Papers
 # Upcoming
 
 
-The ellipsis paper with Justin
 
 
 "only" SALT paper with Aron and Tue
@@ -15,4 +14,10 @@ The ellipsis paper with Justin
 
 Logophoricity paper
 
-erfgergj
+
+# Recent
+
+The ellipsis paper with Justin
+
+
+# Older
