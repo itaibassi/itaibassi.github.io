@@ -1,6 +1,6 @@
 name: Itai Bassi
 url: http://example.org
-description:  Pondering about language.
+description:  Puzzling over semantics
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
