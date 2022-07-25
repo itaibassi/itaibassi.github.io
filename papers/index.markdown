@@ -12,7 +12,7 @@ title: Papers
 `2022.`[Free Choice and Presuppositional Exhaustification](https://ling.auf.net/lingbuzz/006122) (with Guillermo Del Pinal and Uli Sauerland). Submitted to *Semantics and Pragmatics*.
 
 
-`2022.` Pre-DP *only** is a propositional operator at LF: A new argument from ellipsis (with Aron Hirsch and Tue Trinh). [[handout](https://osf.io/fp2ym)]
+`2022.` Pre-DP *only** is a propositional operator at LF: A new argument from ellipsis (with Aron Hirsch and Tue Trinh). [[Recorded talk](https://osf.io/w6pue) with [handout](https://osf.io/fp2ym)] [poster]
 
 
 
