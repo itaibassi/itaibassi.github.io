@@ -6,7 +6,7 @@ title: Papers
 
 # Ph.D Thesis
 
-\2021. Fake Features and Valuation From Context (MIT Dissertation).
+Fake Features and Valuation From Context (2021, MIT Dissertation).
 
 
 
