@@ -6,7 +6,7 @@ title: Papers
 
 # Ph.D Thesis
 
-`2021.` Fake Features and Valuation From Context (2021, MIT Dissertation).
+`2021.` Fake Features and Valuation From Context (MIT Dissertation).
 
 
 
@@ -15,7 +15,7 @@ title: Papers
 
 
 
-`code`. "only" SALT paper with Aron and Tue
+`2021`. "only" SALT paper with Aron and Tue
 
 
 Logophoricity paper
@@ -23,7 +23,10 @@ Logophoricity paper
 
 # Recent
 
-The ellipsis paper with Justin
+`2022`. "only" SALT paper with Aron and Tue
+
+
+`2022.` A prosodic theory of possible ellipsis remnants (with Justin Colley). Published in Glossa Glossa: a journal of general linguistics 7(1)
 
 
 # Older
