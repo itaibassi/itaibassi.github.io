@@ -9,6 +9,8 @@ title: Papers
 
 # Upcoming papers and submitted manuscripts
 
+`2022.`[Free Choice and Presuppositional Exhaustification](https://ling.auf.net/lingbuzz/006122) (with Guillermo Del Pinal and Uli Sauerland). Submitted to *Semantics and Pragmatics*.
+
 
 `2022.` "only" SALT paper with Aron and Tue
 
