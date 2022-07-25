@@ -1,6 +1,6 @@
 name: Itai Bassi
 url: http://example.org
-description:  Puzzling over semantics
+description:  Puzzling over natural language
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
