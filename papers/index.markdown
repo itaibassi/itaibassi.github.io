@@ -15,7 +15,8 @@ title: Papers
 `2022.` Pre-DP *only* is a propositional operator at LF: A new argument from ellipsis (with Aron Hirsch and Tue Trinh). To appear in *SALT32 Proceedings*.
 [[Recorded talk](https://osf.io/w6pue) with [handout](https://osf.io/fp2ym) (WCCFL40); [poster](https://osf.io/bwa7d) (SALT32)]
 
-`2022.` Logophoricity paper
+`2022.` Obligatory *de se* logophors in Ewe, Yoruba and Igbo: Variation and competition (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). To appear in *WCCFL40 Proceedings*.
+[Materials](https://osf.io/p8gsv/)
 
 
 # Recent
