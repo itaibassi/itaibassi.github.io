@@ -16,13 +16,13 @@ title: Papers
 [[Recorded talk](https://osf.io/w6pue) with [handout](https://osf.io/fp2ym) (WCCFL40); [poster](https://osf.io/bwa7d) (SALT32)]
 
 `2022.` Obligatory *de se* logophors in Ewe, Yoruba and Igbo: Variation and competition (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). To appear in *WCCFL40 Proceedings*.
-[[Slides](https://osf.io/p8gsv/); [paper](https://lingbuzz.net/lingbuzz/006770)]
+[[slides](https://osf.io/p8gsv/); [paper](https://lingbuzz.net/lingbuzz/006770)]
 
 
 # Recent
 
 
-`2022.` [A prosodic theory of possible ellipsis remnants](https://www.glossa-journal.org/article/id/5747/) (with Justin Colley). Published in * <font color="blue"> Glossa </font> * 7(1).
+`2022.` [A prosodic theory of possible ellipsis remnants](https://www.glossa-journal.org/article/id/5747/) (with Justin Colley). Published in * <font color="lightblue"> Glossa </font> * 7(1).
 
 `2021.` [Presuppositional Exhaustification](https://semprag.org/index.php/sp/article/view/sp.14.11) (with Guillermo Del Pinal and Uli Sauerland). Published in *Semantics and Pragmatics* vol. 14.
 
