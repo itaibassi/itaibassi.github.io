@@ -16,7 +16,7 @@ title: Papers
 [[Recorded talk](https://osf.io/w6pue) with [handout](https://osf.io/fp2ym) (WCCFL40); [poster](https://osf.io/bwa7d) (SALT32)]
 
 `2022.` Obligatory *de se* logophors in Ewe, Yoruba and Igbo: Variation and competition (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). To appear in *WCCFL40 Proceedings*.
-[Slides](https://osf.io/p8gsv/)
+[[Slides](https://osf.io/p8gsv/); [paper](https://lingbuzz.net/lingbuzz/006770)]
 
 
 # Recent
