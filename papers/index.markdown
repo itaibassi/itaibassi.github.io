@@ -39,4 +39,6 @@ title: Papers
 
 `2020.` [Against Tanglewood by Focus Movement: a Reply to Erlewine and Kotek 2018](https://direct.mit.edu/ling/article-abstract/51/3/579/96990/Against-Tanglewood-by-Focus-Movement-A-Reply-to?redirectedFrom=fulltext/) (with Nick Longenbaugh). Published in *<font color="lightblue"> Linguistic Inquiry </font>* 51(3).
 
-`2019.` [Fake Indexicals and their Sensitivity to Focus](https://ling.auf.net/lingbuzz/006181).  Published in *<font color="lightblue"> Proceedings of the North Eastern Linguistics Society (NELS) 49</font>*.
+`2019.` [Fake Indexicals and their Sensitivity to Focus](https://ling.auf.net/lingbuzz/004648).  Published in *<font color="lightblue"> Proceedings of the North Eastern Linguistics Society (NELS) 49</font>*.
+
+`2018.` [Features on bound pronouns: an argument against syntactic agreement](https://ling.auf.net/lingbuzz/004056)  (with Nick Longenbaugh).  Published in *<font color="lightblue"> Proceedings of the North Eastern Linguistics Society (NELS) 48</font>*.
