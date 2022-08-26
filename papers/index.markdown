@@ -43,6 +43,9 @@ title: Papers
 
 `2018.` [Features on bound pronouns: an argument against syntactic agreement](https://ling.auf.net/lingbuzz/004056)  (with Nick Longenbaugh).  Published in *<font color="lightblue"> Proceedings of the North Eastern Linguistics Society (NELS) 48</font>*.
 
-`2017.` [Equational-intensional relative clauses with syntactic reconstruction](https://semanticsarchive.net/Archive/GE4MWViN/Bassi.pdf)  (with Ezer Rasin).  Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 21 48</font>*.
+`2017.` [Equational-intensional relative clauses with syntactic reconstruction](https://semanticsarchive.net/Archive/GE4MWViN/Bassi.pdf)  (with Ezer Rasin).  Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 21</font>*.
+
+`2016.`  [A Unified Existential Semantics for Bare Conditionals](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/download/128/71/) (with Moshe E. Bar-Lev).Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 20 </font>*.
+
 
 
