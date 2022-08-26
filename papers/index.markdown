@@ -45,7 +45,7 @@ title: Papers
 
 `2018.` [Equational-intensional relative clauses with syntactic reconstruction](https://semanticsarchive.net/Archive/GE4MWViN/Bassi.pdf)  (with Ezer Rasin).  Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 22</font>*.
 
-`2017.`  [A Unified Existential Semantics for Bare Conditionals](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/download/128/71/) (with Moshe E. Bar-Lev).Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 21 </font>*.
+`2017.`  [A Unified Existential Semantics for Bare Conditionals](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/download/128/71/) (with Moshe E. Bar-Lev). Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 21</font>*.
 
 
 
