@@ -35,6 +35,8 @@ title: Papers
 
 # Older
 
-`2021.` [Composing CPs: Evidence from Disjunction and Conjunction](http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/30.583/)  (with Tanya Bondarenko).  Published *<font color="lightblue"> SALT30 Proceedings</font>*.
+`2021.` [Composing CPs: Evidence from Disjunction and Conjunction](http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/30.583/)  (with Tanya Bondarenko).  Published in *<font color="lightblue"> SALT30 Proceedings</font>*.
 
 `2020.` [Against Tanglewood by Focus Movement: a Reply to Erlewine and Kotek 2018](https://direct.mit.edu/ling/article-abstract/51/3/579/96990/Against-Tanglewood-by-Focus-Movement-A-Reply-to?redirectedFrom=fulltext/) (with Nick Longenbaugh). Published in *<font color="lightblue"> Linguistic Inquiry </font>* 51(3).
+
+`2019.` [Fake Indexicals and their Sensitivity to Focus](https://ling.auf.net/lingbuzz/006181).  Published in *<font color="lightblue"> Proceedings of the North Eastern Linguistics Society (NELS) 49</font>*.
