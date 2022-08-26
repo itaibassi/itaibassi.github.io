@@ -42,3 +42,7 @@ title: Papers
 `2019.` [Fake Indexicals and their Sensitivity to Focus](https://ling.auf.net/lingbuzz/004648).  Published in *<font color="lightblue"> Proceedings of the North Eastern Linguistics Society (NELS) 49</font>*.
 
 `2018.` [Features on bound pronouns: an argument against syntactic agreement](https://ling.auf.net/lingbuzz/004056)  (with Nick Longenbaugh).  Published in *<font color="lightblue"> Proceedings of the North Eastern Linguistics Society (NELS) 48</font>*.
+
+`2017.` [Equational-intensional relative clauses with syntactic reconstruction](https://semanticsarchive.net/Archive/GE4MWViN/Bassi.pdf)  (with Ezer Rasin).  Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 21 48</font>*.
+
+
