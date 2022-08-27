@@ -2,7 +2,7 @@ name: Itai Bassi
 url: http://example.org
 description:  Puzzling over natural language
 
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title:output_ext
 paginate: 10
 
 gems: [jekyll-paginate]
