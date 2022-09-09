@@ -9,5 +9,5 @@ title: Teaching
 
 # Courses
 
-`Spring 2023:` Scalar Implicatures. Ben Gurion University, Israel. 
+`Spring 2023:` <font color="lightblue"> Scalar Implicatures</font>. Ben Gurion University, Israel. 
 
