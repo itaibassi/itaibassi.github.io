@@ -18,6 +18,10 @@ title: Papers
 `2022.` Obligatory *de se* logophors in Ewe, Yoruba and Igbo: Variation and competition (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). To appear in *<font color="lightblue"> WCCFL40 Proceedings</font>*.
 [[slides](https://osf.io/p8gsv/); [paper](https://lingbuzz.net/lingbuzz/006770)]
 
+`2022.` Excursive Questions (with Tue Trinh). To appear in *<font color="lightblue"> Proceedings or the Workshop on Non-Canonical Interrogatives Across Languages</font>*.
+[[slides](https://trinhhuutue.files.wordpress.com/2022/05/02-slides-estonia-1.pdf); [poster](https://trinhhuutue.files.wordpress.com/2022/04/posterlondon.pdf)]
+
+
 
 # Recent
 
