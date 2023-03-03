@@ -11,7 +11,7 @@ title: Papers
 
 `2023.`[Free Choice and Presuppositional Exhaustification](https://ling.auf.net/lingbuzz/006122) (with Guillermo Del Pinal and Uli Sauerland). Accepted to *Semantics and Pragmatics*.
 
-`2023.`[Excursive Questions](BLABLA) (with Guillermo Del Pinal and Uli Sauerland). Accepted to *Open Linguistics*.
+`2023.`[Excursive Questions](https://www.dropbox.com/s/2s9jjvtrf4zy1qa/Excursive_questions.pdf?dl=0) (with Tue Trinh). Accepted to *Open Linguistics*.
 
 
 `2022.` Pre-DP *only* is a propositional operator at LF: A new argument from ellipsis (with Aron Hirsch and Tue Trinh). To appear in *<font color="lightblue"> SALT32 Proceedings</font>*.
