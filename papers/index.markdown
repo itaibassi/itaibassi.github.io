@@ -9,9 +9,13 @@ title: Papers
 
 # Upcoming papers and submitted manuscripts
 
+`2023.`[*De se* dependencies without binding:
+evidence from strict readings of
+logophoric pronouns](https://www.dropbox.com/s/2r6zu3911bu1kg3/strict_logophors_submitted.pdf?dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Submitted. 
+
 `2023.`[Free Choice and Presuppositional Exhaustification](https://www.dropbox.com/s/way6x3z5rtsbf45/Presuppositional_exh_and_free_choice%20%283%29.pdf?dl=0) (with Guillermo Del Pinal and Uli Sauerland). Accepted to *Semantics and Pragmatics*.
 
-`2023.`[Excursive Questions](https://www.dropbox.com/s/2s9jjvtrf4zy1qa/Excursive_questions.pdf?dl=0) (with Tue Trinh). Accepted to *Open Linguistics*.
+`2023.`[Excursive Questions](https://www.dropbox.com/s/2s9jjvtrf4zy1qa/Excursive_questions.pdf?dl=0) (with Tue Trinh). Accepted to *<font color="lightblue"> Open Linguistics</font>*.
 
 
 `2022.` Pre-DP *only* is a propositional operator at LF: A new argument from ellipsis (with Aron Hirsch and Tue Trinh). To appear in *<font color="lightblue"> SALT32 Proceedings</font>*.
