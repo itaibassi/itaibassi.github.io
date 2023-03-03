@@ -9,7 +9,7 @@ title: Papers
 
 # Upcoming papers and submitted manuscripts
 
-`2023.`[Free Choice and Presuppositional Exhaustification](https://ling.auf.net/lingbuzz/006122) (with Guillermo Del Pinal and Uli Sauerland). Accepted to *Semantics and Pragmatics*.
+`2023.`[Free Choice and Presuppositional Exhaustification](https://www.dropbox.com/s/way6x3z5rtsbf45/Presuppositional_exh_and_free_choice%20%283%29.pdf?dl=0) (with Guillermo Del Pinal and Uli Sauerland). Accepted to *Semantics and Pragmatics*.
 
 `2023.`[Excursive Questions](https://www.dropbox.com/s/2s9jjvtrf4zy1qa/Excursive_questions.pdf?dl=0) (with Tue Trinh). Accepted to *Open Linguistics*.
 
