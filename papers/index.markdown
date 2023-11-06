@@ -21,15 +21,14 @@ On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwp
 
 `2023.`[Excursive Questions](https://www.degruyter.com/document/doi/10.1515/opli-2022-0232/html) (with Tue Trinh). *<font color="lightblue"> Open Linguistics</font>*.
 
+`2023.`[An Algebra of Thought that predicts key aspects of language structure](https://www.degruyter.com/document/doi/10.1515/opli-2022-0232/html) (with Uli Sauerland, Cory Bill, Abigail Bimpeh, Aron Hirsch, Paloma Jeretić, Marie-Christine Meyer, Andreea Nicolae, Kazuko Yatsushiro, Artemis Alexiadou). To appear in  *<font color="lightblue"> Proceedings of Sinn und Bedeutung 27</font>*.
+
+
 `2022.` Pre-DP *only* is a propositional operator at LF: A new argument from ellipsis (with Aron Hirsch and Tue Trinh). To appear in *<font color="lightblue"> SALT32 Proceedings</font>*.
 [[Recorded talk](https://osf.io/w6pue) with [handout](https://osf.io/fp2ym) (WCCFL40); [poster](https://osf.io/bwa7d) (SALT32)]
 
 `2022.` Obligatory *de se* logophors in Ewe, Yoruba and Igbo: Variation and competition (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). To appear in *<font color="lightblue"> WCCFL40 Proceedings</font>*.
 [[slides](https://osf.io/p8gsv/); [paper](https://lingbuzz.net/lingbuzz/006770)]
-
-`2022.` Excursive Questions (with Tue Trinh). To appear in *<font color="lightblue"> Proceedings or the Workshop on Non-Canonical Interrogatives Across Languages</font>*.
-[[slides](https://trinhhuutue.files.wordpress.com/2022/05/02-slides-estonia-1.pdf); [poster](https://trinhhuutue.files.wordpress.com/2022/04/posterlondon.pdf)]
-
 
 
 # Recent
