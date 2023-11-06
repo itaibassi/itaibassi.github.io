@@ -11,7 +11,7 @@ title: Papers
 
 `2023.`[*De se* dependencies without binding:
 evidence from strict readings of
-logophoric pronouns](https://www.dropbox.com/s/2r6zu3911bu1kg3/strict_logophors_submitted.pdf?dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Submitted. 
+logophoric pronouns](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Under review, *<font color="lightblue"> Natural Language Semantics </font>*. 
 
 `2023.`[Free Choice and Presuppositional Exhaustification](https://www.dropbox.com/s/way6x3z5rtsbf45/Presuppositional_exh_and_free_choice%20%283%29.pdf?dl=0) (with Guillermo Del Pinal and Uli Sauerland). Accepted to *<font color="lightblue"> Semantics and Pragmatics </font>*.
 
