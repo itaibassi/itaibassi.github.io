@@ -9,7 +9,7 @@ title: Presentations
 
 # Recent and upcoming presentations [TO BE UPDATED]
 
-`11/12/2023.` [Modal flavors under ellipsis: ambiguity or underspecification?](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0) (with Paloma Jereti\'{c}). Poster to be presented at  the [Moral Language Workshop](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0), Institut Jean Nicod, Paris. 
+`11/12/2023.` Modal flavors under ellipsis: ambiguity or underspecification? (with Paloma Jeretić) [[abstract](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0)]. Poster to be presented at  the [Moral Language Workshop](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0), Institut Jean Nicod, Paris. 
 
 `25/6/2023.` Exhaustivity and (de)accenting with scalar items. Hebrew University Semantic Workshop.  [[handout](https://www.dropbox.com/scl/fi/qk6fe1dcloo4vkqdkmj5x/Exhaustivity-and-de-accenting-with-scalar-items.pdf?rlkey=re8wbd1kikb8khcdzuva370cd&dl=0)]
 
