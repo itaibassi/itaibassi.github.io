@@ -21,6 +21,8 @@ On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwp
 
 `2023.`[Excursive Questions](https://www.degruyter.com/document/doi/10.1515/opli-2022-0232/html) (with Tue Trinh). *<font color="lightblue"> Open Linguistics</font>*.
 
+`2023.` On Sloppy non-pronominals (with Danny Fox). Email me for a copy.
+
 `2023.`[An Algebra of Thought that predicts key aspects of language structure](https://ling.auf.net/lingbuzz/007060) (with Uli Sauerland, Cory Bill, Abigail Bimpeh, Aron Hirsch, Paloma Jeretić, Marie-Christine Meyer, Andreea Nicolae, Kazuko Yatsushiro, Artemis Alexiadou). To appear in  *<font color="lightblue"> Proceedings of Sinn und Bedeutung 27</font>*.
 
 
