@@ -9,13 +9,13 @@ title: Papers
 
 # Upcoming papers and submitted manuscripts
 
-`2023.`[*De se* dependencies without binding:
-evidence from strict readings of
-logophoric pronouns](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Under review, *<font color="lightblue"> Natural Language Semantics </font>*. 
+`2023.`[Decomposing logophoric pronouns: a
+presuppositional account of logophoric
+dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Under review, *<font color="lightblue"> Natural Language Semantics </font>*. 
 
 `2023.`[Free Choice and Presuppositional Exhaustification](https://www.dropbox.com/s/way6x3z5rtsbf45/Presuppositional_exh_and_free_choice%20%283%29.pdf?dl=0) (with Guillermo Del Pinal and Uli Sauerland). Accepted to *<font color="lightblue"> Semantics and Pragmatics </font>*.
 
-`2023.`[Excursive Questions](https://www.dropbox.com/s/2s9jjvtrf4zy1qa/Excursive_questions.pdf?dl=0) (with Tue Trinh). Accepted to *<font color="lightblue"> Open Linguistics</font>*.
+`2023.`[Excursive Questions](https://www.degruyter.com/document/doi/10.1515/opli-2022-0232/html) (with Tue Trinh). *<font color="lightblue"> Open Linguistics</font>*.
 
 `2022.` Pre-DP *only* is a propositional operator at LF: A new argument from ellipsis (with Aron Hirsch and Tue Trinh). To appear in *<font color="lightblue"> SALT32 Proceedings</font>*.
 [[Recorded talk](https://osf.io/w6pue) with [handout](https://osf.io/fp2ym) (WCCFL40); [poster](https://osf.io/bwa7d) (SALT32)]
