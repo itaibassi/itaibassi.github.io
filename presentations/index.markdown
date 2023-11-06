@@ -11,11 +11,12 @@ title: Presentations
 
 `11/12/2023.` [Modal flavors under ellipsis: ambiguity or underspecification?](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0) (with Paloma Jereti\'{c}). Poster to be presented at  the [Moral Language Workshop](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0), Institut Jean Nicod, Paris. 
 
+`25/6/2023.` Exhaustivity and (de)accenting with scalar items. Hebrew University Semantic Workshop.  [[handout](https://www.dropbox.com/scl/fi/qk6fe1dcloo4vkqdkmj5x/Exhaustivity-and-de-accenting-with-scalar-items.pdf?rlkey=re8wbd1kikb8khcdzuva370cd&dl=0)]
+
+
 `14/9/2022.`[Strict Logophors](https://drive.google.com/file/d/1KBFjmoAOvqbtSWfL2XjdFYEG2FvVNphJ/view) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Talk presented at *[Sinn und Bedeutung 27](https://sub27.ff.cuni.cz/)*, Prague.
 
 
-`2022.` Excursive Questions (with Tue Trinh). Talk presented in the *Workshop on Non-Canonical Interrogatives Across Languages*.
-[[slides](https://trinhhuutue.files.wordpress.com/2022/05/02-slides-estonia-1.pdf); [poster](https://trinhhuutue.files.wordpress.com/2022/04/posterlondon.pdf)]
 
 
 
