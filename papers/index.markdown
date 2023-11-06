@@ -13,7 +13,7 @@ title: Papers
 presuppositional account of logophoric
 dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Under review, *<font color="lightblue"> Natural Language Semantics </font>*. 
 
-`2023.`[Free Choice and Presuppositional Exhaustification](https://www.dropbox.com/s/way6x3z5rtsbf45/Presuppositional_exh_and_free_choice%20%283%29.pdf?dl=0) (with Guillermo Del Pinal and Uli Sauerland). Accepted to *<font color="lightblue"> Semantics and Pragmatics </font>*.
+`2023.`[Free Choice and Presuppositional Exhaustification](https://www.dropbox.com/scl/fi/qro81oh29tvurvkuytl28/FC_and_Pex_final_S-P.pdf?rlkey=bflxd52hu410bmp281j3pg0be&dl=0) (with Guillermo Del Pinal and Uli Sauerland). In print, *<font color="lightblue"> Semantics and Pragmatics </font>*.
 
 `2023.`[Excursive Questions](https://www.degruyter.com/document/doi/10.1515/opli-2022-0232/html) (with Tue Trinh). *<font color="lightblue"> Open Linguistics</font>*.
 
