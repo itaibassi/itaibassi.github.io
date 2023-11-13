@@ -9,7 +9,7 @@ title: Presentations
 
 # Recent and upcoming presentations 
 
-`11/12/2023.` Modal flavors under ellipsis: ambiguity or underspecification? (with Paloma Jeretić) [[abstract](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0)]. Poster to be presented at  the *[Moral Language Workshop](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0), Institut Jean Nicod, Paris*. 
+`11/12/2023.` Modal flavors under ellipsis: ambiguity or underspecification? (with Paloma Jeretič) [[abstract](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0)]. Poster to be presented at  the *[Moral Language Workshop](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0), Institut Jean Nicod, Paris*. 
 
 `19/7/2023.` Towards a theory of movement dependencies without movement in Meaning First.  *CreteLing Workshop on Meaning First*.  [[slides](https://www.dropbox.com/scl/fi/632vnnt756k9e3txu1wwu/On_Movement_CreteLing-workshop.pdf?rlkey=91j6szp9ysja4acjywz1th20l&dl=0)]
 
