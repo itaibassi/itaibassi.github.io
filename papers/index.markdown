@@ -14,7 +14,7 @@ presuppositional account of logophoric
 dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Under review, *<font color="lightblue"> Natural Language Semantics</font>*. 
 
 `2023.`[Core Concepts and Indirect Alternatives:
-On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretić, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Submitted to *<font color="lightblue"> Journal of Semantics</font>*.
+On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Submitted to *<font color="lightblue"> Journal of Semantics</font>*.
 
 
 `2023.`[Free Choice and Presuppositional Exhaustification](https://www.dropbox.com/scl/fi/qro81oh29tvurvkuytl28/FC_and_Pex_final_S-P.pdf?rlkey=bflxd52hu410bmp281j3pg0be&dl=0) (with Guillermo Del Pinal and Uli Sauerland). In print, *<font color="lightblue"> Semantics and Pragmatics</font>*.
@@ -23,7 +23,7 @@ On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwp
 
 `2023.` On Sloppy non-pronominals (with Danny Fox). Email me for a copy.
 
-`2023.`[An Algebra of Thought that predicts key aspects of language structure](https://ling.auf.net/lingbuzz/007060) (with Uli Sauerland, Cory Bill, Abigail Bimpeh, Aron Hirsch, Paloma Jeretić, Marie-Christine Meyer, Andreea Nicolae, Kazuko Yatsushiro, Artemis Alexiadou). To appear in  *<font color="lightblue"> Proceedings of Sinn und Bedeutung 27</font>*.
+`2023.`[An Algebra of Thought that predicts key aspects of language structure](https://ling.auf.net/lingbuzz/007060) (with Uli Sauerland, Cory Bill, Abigail Bimpeh, Aron Hirsch, Paloma Jeretič, Marie-Christine Meyer, Andreea Nicolae, Kazuko Yatsushiro, Artemis Alexiadou). To appear in  *<font color="lightblue"> Proceedings of Sinn und Bedeutung 27</font>*.
 
 
 `2022.` [Pre-DP *only* is a propositional operator at LF: A new argument from ellipsis](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.041) (with Aron Hirsch and Tue Trinh). To appear in *<font color="lightblue"> SALT32 Proceedings</font>*.
