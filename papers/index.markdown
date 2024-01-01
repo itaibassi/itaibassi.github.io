@@ -23,7 +23,7 @@ On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwp
 
 `2023.`[Strict Logophors in Ewe, Yoruba, and Igbo](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1052) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 27</font>*.
 
-`2023.`[An Algebra of Thought that predicts key aspects of language structure](https://ling.auf.net/lingbuzz/007060) (with Uli Sauerland, Cory Bill, Abigail Bimpeh, Aron Hirsch, Paloma Jeretič, Marie-Christine Meyer, Andreea Nicolae, Kazuko Yatsushiro, Artemis Alexiadou). To appear in  *<font color="lightblue"> Proceedings of Sinn und Bedeutung 27</font>*.
+`2023.`[An Algebra of Thought that predicts key aspects of language structure](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1088) (with Uli Sauerland, Cory Bill, Abigail Bimpeh, Aron Hirsch, Paloma Jeretič, Marie-Christine Meyer, Andreea Nicolae, Kazuko Yatsushiro, Artemis Alexiadou). To appear in  *<font color="lightblue"> Proceedings of Sinn und Bedeutung 27</font>*.
 
 `2023.` On Sloppy non-pronominals (with Danny Fox). Email me for a copy.
 
