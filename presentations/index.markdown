@@ -16,8 +16,8 @@ title: Presentations
 
 `17/04/24.`  On Contrast and ellipsis. Invited talk at the Linguistics Department Colloquium, *Heinrich Heine University Düsseldorf*. 
 
-`13/04/24.`  Pathological Questions, focus, and unacceptable ellipsis
-. Invited talk at the Linguistics Department Colloquium, *Heinrich Heine University Düsseldorf*. 
+`12/03/24.`  Fake features and (dis)agreement in relative clauses.
+A talk at the Mismatches and Disambiguation meeting, *ZAS*. 
 
 `11/12/2023.` Modal flavors under ellipsis: ambiguity or underspecification? (with Paloma Jeretič) [[abstract](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0)]. Poster to be presented at  the *[Moral Language Workshop](https://www.dropbox.com/scl/fi/9fga8twozfypck2rbrpf7/Modal-flavors-under-ellipsis-ambiguity-or-underspecification.pdf?rlkey=eslrrrjbt7hdkgsc288rzphw1&dl=0), Institut Jean Nicod, Paris*. 
 
