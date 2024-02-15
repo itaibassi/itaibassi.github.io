@@ -7,14 +7,14 @@ title: Papers
 
 
 
-# Upcoming papers and submitted manuscripts
+# Upcoming and recent papers 
 
-`2023.`[Decomposing logophoric pronouns: a
+`2024.`[Decomposing logophoric pronouns: a
 presuppositional account of logophoric
 dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Under review, *<font color="lightblue"> Natural Language Semantics</font>*. 
 
-`2023.`[Core Concepts and Indirect Alternatives:
-On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Submitted to *<font color="lightblue"> Journal of Semantics</font>*.
+`2024.`[Core Concepts and Indirect Alternatives:
+On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Under review, *<font color="lightblue"> Journal of Semantics</font>*.
 
 
 `2023.`[Free Choice and Presuppositional Exhaustification](https://www.dropbox.com/scl/fi/qro81oh29tvurvkuytl28/FC_and_Pex_final_S-P.pdf?rlkey=bflxd52hu410bmp281j3pg0be&dl=0) (with Guillermo Del Pinal and Uli Sauerland). In print, *<font color="lightblue"> Semantics and Pragmatics</font>*.
