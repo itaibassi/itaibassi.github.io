@@ -11,7 +11,7 @@ title: Presentations
 
 
 `12-14/04/24.`  Pathological Questions, focus, and unacceptable ellipsis
-[[abstract](https://www.dropbox.com/scl/fi/stuv4sw35ss78xlmhmeu6/Abstract-Pathological-Questions-focus-and-unacceptable-ellipsis.pdf?rlkey=t2tnh0ifvb9l17vdja8s6irbs&dl=0)]]. Poster to be presented at *[WCCFL 42](https://www.wccfl42.com/home), UC Berkeley*. 
+[[abstract](https://www.dropbox.com/scl/fi/stuv4sw35ss78xlmhmeu6/Abstract-Pathological-Questions-focus-and-unacceptable-ellipsis.pdf?rlkey=t2tnh0ifvb9l17vdja8s6irbs&dl=0)]. Poster to be presented at *[WCCFL 42](https://www.wccfl42.com/home), UC Berkeley*. 
 
 `17/04/24.`  On Contrast and ellipsis. Invited talk at the Linguistics Department Colloquium, *Heinrich Heine University Düsseldorf*. 
 
