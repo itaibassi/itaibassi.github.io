@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presentations
+title: Recent Presentations
 ---
 
 
