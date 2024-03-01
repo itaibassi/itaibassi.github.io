@@ -17,7 +17,7 @@ dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logoph
 On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Under review, *<font color="lightblue"> Journal of Semantics</font>*.
 
 
-`2023.`[Free Choice and Presuppositional Exhaustification](https://www.dropbox.com/scl/fi/qro81oh29tvurvkuytl28/FC_and_Pex_final_S-P.pdf?rlkey=bflxd52hu410bmp281j3pg0be&dl=0) (with Guillermo Del Pinal and Uli Sauerland). In print, *<font color="lightblue"> Semantics and Pragmatics</font>*.
+`2023.`[Free Choice and Presuppositional Exhaustification](https://semprag.org/index.php/sp/article/view/sp.17.3) (with Guillermo Del Pinal and Uli Sauerland). Published in *<font color="lightblue"> Semantics and Pragmatics</font>*.
 
 `2023.`[Excursive Questions](https://www.degruyter.com/document/doi/10.1515/opli-2022-0232/html) (with Tue Trinh). *<font color="lightblue"> Open Linguistics</font>*.
 
