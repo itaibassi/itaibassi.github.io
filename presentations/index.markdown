@@ -13,6 +13,9 @@ title: Recent Presentations
 `28/05/24.`  Pathological Questions, focus, and unacceptable ellipsis
 [[abstract](https://www.dropbox.com/scl/fi/stuv4sw35ss78xlmhmeu6/Abstract-Pathological-Questions-focus-and-unacceptable-ellipsis.pdf?rlkey=t2tnh0ifvb9l17vdja8s6irbs&dl=0)]. A talk at *[SALT 34](https://saltconf.github.io/salt34), University of Rochester*. 
 
+`15/05/24.`  Free Choice and Presuppositional Exhaustification
+[[slides](https://www.dropbox.com/scl/fi/stuv4sw35ss78xlmhmeu6/Abstract-Pathological-Questions-focus-and-unacceptable-ellipsis.pdf?rlkey=t2tnh0ifvb9l17vdja8s6irbs&dl=0)]. A talk at *[SALT 34](https://saltconf.github.io/salt34), University of Rochester*. 
+
 `17/04/24.`  [Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/5envbp4bo927ze2i8vt02/Dusseldorf-talk_pathological_questions__ellipsis.pdf?rlkey=fz5lzksnh8r65rpjgpnb5o1k8&dl=0). Invited talk at the Linguistics Department Colloquium, *Heinrich Heine University Düsseldorf*. 
 
 `13/04/24.`  Pathological Questions, focus, and unacceptable ellipsis. 
