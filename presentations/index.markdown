@@ -10,7 +10,8 @@ title: Recent Presentations
 # Recent and upcoming presentations 
 
 
-`28/05/24.`  Pathological Questions, focus, and unacceptable ellipsis
+`29/05/24.`  Pathological Questions, focus, and unacceptable ellipsis
+[[slides](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0)],
 [[abstract](https://www.dropbox.com/scl/fi/stuv4sw35ss78xlmhmeu6/Abstract-Pathological-Questions-focus-and-unacceptable-ellipsis.pdf?rlkey=t2tnh0ifvb9l17vdja8s6irbs&dl=0)]. A talk at *[SALT 34](https://saltconf.github.io/salt34), University of Rochester*. 
 
 `15/05/24.`  Free Choice and Presuppositional Exhaustification
