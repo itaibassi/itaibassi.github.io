@@ -11,7 +11,7 @@ title: Recent Presentations
 
 
 `28/06/24.`  Conditional Questions as Matrix Questions (with Tue Trinh).
- [[slides](https://www.dropbox.com/s/fwhdzr61lu39kjp/BASSI_TRINH_SARO_poster.pdf?dl=0)]. Poster presented at the *[Workshop on Speech Act-related Operators](https://www.leibniz-zas.de/de/das-zas/veranstaltungen/details/events/workshop-on-speech-act-related-operators)*,  ZAS Berlin. 
+ [[poster](https://www.dropbox.com/s/fwhdzr61lu39kjp/BASSI_TRINH_SARO_poster.pdf?dl=0)]. Poster presented at the *[Workshop on Speech Act-related Operators](https://www.leibniz-zas.de/de/das-zas/veranstaltungen/details/events/workshop-on-speech-act-related-operators)*,  ZAS Berlin. 
 
 `24/06/24.`  Copied Relative Clauses and the Theory of phi-feature Mismatches
  [[slides](https://www.dropbox.com/scl/fi/iug6z03h3d1kz7jphdug6/Slides_Invited_Talk_BGU.pdf?rlkey=mvoefm3wrt15f66gseaf7q8xm&dl=0)]. Invited talk at *Ben Gurion University*. 
