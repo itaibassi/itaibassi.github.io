@@ -10,6 +10,10 @@ title: Recent Presentations
 # Recent and upcoming presentations 
 
 
+`24/06/24.`  Copied Relative Clauses and the Theory of phi-feature Mismatches
+ [[slides](https://www.dropbox.com/scl/fi/iug6z03h3d1kz7jphdug6/Slides_Invited_Talk_BGU.pdf?rlkey=mvoefm3wrt15f66gseaf7q8xm&dl=0)]. Invited talk at *[Ben Gurion University]*. 
+
+
 `29/05/24.`  Pathological Questions, focus, and unacceptable ellipsis
 [[slides](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0), 
 [abstract](https://www.dropbox.com/scl/fi/stuv4sw35ss78xlmhmeu6/Abstract-Pathological-Questions-focus-and-unacceptable-ellipsis.pdf?rlkey=t2tnh0ifvb9l17vdja8s6irbs&dl=0)]. A talk at *[SALT 34](https://saltconf.github.io/salt34), University of Rochester*. 
