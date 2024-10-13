@@ -9,7 +9,7 @@ title: Recent Presentations
 
 # Upcoming and recent presentations 
 
-`28/10/24.`  Conditional Questions as Matrix Questions with syntactic reconstruction (with Tue Trinh).
+`07/01/25.`  Conditional Questions as Matrix Questions with syntactic reconstruction (with Tue Trinh).
  [[poster](https://www.dropbox.com/s/fwhdzr61lu39kjp/BASSI_TRINH_SARO_poster.pdf?dl=0)]. A talk at *IATL workshop*,  Tel Aviv University. 
 
 
