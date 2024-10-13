@@ -10,8 +10,15 @@ title: Recent Presentations
 # Recent and upcoming presentations 
 
 
-`28/06/24.`  Conditional Questions as Matrix Questions (with Tue Trinh).
- [[poster](https://www.dropbox.com/s/fwhdzr61lu39kjp/BASSI_TRINH_SARO_poster.pdf?dl=0)]. Poster presented at the *[Workshop on Speech Act-related Operators](https://www.leibniz-zas.de/de/das-zas/veranstaltungen/details/events/workshop-on-speech-act-related-operators)*,  ZAS Berlin. 
+`28/10/24.`  Conditional Questions as Matrix Questions with syntactic reconstruction (with Tue Trinh).
+ [[poster](https://www.dropbox.com/s/fwhdzr61lu39kjp/BASSI_TRINH_SARO_poster.pdf?dl=0)]. A talk at *IATL workshop*,  Tel Aviv University. 
+
+
+`19/09/24.`  Conditional Questions as Matrix Questions (with Tue Trinh).
+ [[poster](https://www.dropbox.com/s/fwhdzr61lu39kjp/BASSI_TRINH_SARO_poster.pdf?dl=0)]. Poster presented at *[Sinn und Bedeutung 29](https://sub29.unime.it/)*.
+ Also presented at the *[workshop on Speech Act-related operators](https://www.trinhhuutue.com/wp-content/uploads/2024/06/saro-program-final.pdf)*, 28/06/24.
+ 
+ (https://www.leibniz-zas.de/de/das-zas/veranstaltungen/details/events/workshop-on-speech-act-related-operators)*,  ZAS Berlin. 
 
 `24/06/24.`  Copied Relative Clauses and the Theory of phi-feature Mismatches
  [[slides](https://www.dropbox.com/scl/fi/iug6z03h3d1kz7jphdug6/Slides_Invited_Talk_BGU.pdf?rlkey=mvoefm3wrt15f66gseaf7q8xm&dl=0)]. Invited talk at *Ben Gurion University*. 
