@@ -7,7 +7,7 @@ title: Recent Presentations
 
 
 
-# Recent and upcoming presentations 
+# Upcoming and recent presentations 
 
 
 `28/10/24.`  Conditional Questions as Matrix Questions with syntactic reconstruction (with Tue Trinh).
