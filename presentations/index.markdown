@@ -9,16 +9,14 @@ title: Recent Presentations
 
 # Upcoming and recent presentations 
 
-`07/01/25.`  Invited talk at Paris Lodron Universität Salzburg
+`05/06/25.`  Invited talk at the *Workshop on indexical binding* (organized by Isabelle Charnavel), University of Zurich.
 
 
-`07/01/25.`  Invited talk at Paris Lodron Universität Salzburg
+`07/01/25.` Copied Relative Clauses and the Theory of phi-feature Mismatches.  Invited talk at Paris Lodron Universität, Salzburg.
 .
- [[Abstract](https://www.dropbox.com/s/fwhdzr61lu39kjp/IATL_abstract_Conditional-Questions.pdf?dl=0)]. A talk at *IATL workshop*,  Tel Aviv University. 
-
 
 `28/10/24.`  Conditional Questions as Matrix Questions with syntactic reconstruction (with Tue Trinh).
- [[Abstract](https://www.dropbox.com/scl/fi/0e5hjw2bs092kvkqwixms/IATL_abstract_Conditional-Questions.pdf?rlkey=7swkswvdma23byz01o3autow6&dl=0)]. A talk at *IATL workshop*,  Tel Aviv University. 
+ [[Abstract](https://www.dropbox.com/s/fwhdzr61lu39kjp/IATL_abstract_Conditional-Questions.pdf?dl=0)]. A talk at *IATL workshop*,  Tel Aviv University. 
 
 `08/10/24.`  A Stress-Free Alternative to a Homogeneity Presupposition  (with Moshe E. Bar Lev).
  [[slides](https://www.dropbox.com/scl/fi/flpj2wvvwrfgji17m4icu/A-stress-free-alternative-to-Homogeneity.pdf?rlkey=7gz3w3runxhyulrby712mjhax&dl=0)]. A talk at the *[Workshop on Gaps and imprecision in Natural Language Semantics](https://gaps-and-imprecision.netlify.app/)*,  ZAS Berlin. 
