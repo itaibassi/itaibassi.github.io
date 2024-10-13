@@ -28,10 +28,7 @@ title: Recent Presentations
  [comment]: <> (This is a comment, it will not be included)
 
  
- <!-- 
- (https://www.leibniz-zas.de/de/das-zas/veranstaltungen/details/events/workshop-on-speech-act-related-operators)*,  ZAS Berlin. 
- -->
-
+ 
 
 `24/06/24.`  Copied Relative Clauses and the Theory of phi-feature Mismatches
  [[slides](https://www.dropbox.com/scl/fi/iug6z03h3d1kz7jphdug6/Slides_Invited_Talk_BGU.pdf?rlkey=mvoefm3wrt15f66gseaf7q8xm&dl=0)]. Invited talk at *Ben Gurion University*. 
