@@ -21,7 +21,7 @@ title: Recent Presentations
  [[Abstract](https://www.dropbox.com/scl/fi/0e5hjw2bs092kvkqwixms/IATL_abstract_Conditional-Questions.pdf?rlkey=7swkswvdma23byz01o3autow6&dl=0)]. A talk at *IATL workshop*,  Tel Aviv University. 
 
 `08/10/24.`  A Stress-Free Alternative to a Homogeneity Presupposition  (with Moshe E. Bar Lev).
- [[slides](https://www.dropbox.com/scl/fi/flpj2wvvwrfgji17m4icu/A-stress-free-alternative-to-Homogeneity.pdf?rlkey=7gz3w3runxhyulrby712mjhax&dl=0)]. A talk at *IATL workshop*,  Tel Aviv University. 
+ [[slides](https://www.dropbox.com/scl/fi/flpj2wvvwrfgji17m4icu/A-stress-free-alternative-to-Homogeneity.pdf?rlkey=7gz3w3runxhyulrby712mjhax&dl=0)]. A talk at the *[Workshop on Gaps and imprecision in Natural Language Semantics](https://gaps-and-imprecision.netlify.app/)*,  ZAS Berlin. 
 
 
 `19/09/24.`  Conditional Questions as Matrix Questions (with Tue Trinh).
