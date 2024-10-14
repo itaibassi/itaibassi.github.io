@@ -18,6 +18,9 @@ dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logoph
 `2024.`[Core Concepts and Indirect Alternatives:
 On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Under review, *<font color="lightblue"> Journal of Semantics</font>*.
 
+`2024.`[Questions and Connectives](trinhhuutue.com/wp-content/uploads/2024/08/trinhbassi2024questions.pdf) (with Tue Trinh). Under review, *<font color="lightblue"> Proceedings of TLLM</font>*.
+
+
 
 `2023.`[Free Choice and Presuppositional Exhaustification](https://semprag.org/index.php/sp/article/view/sp.17.3) (with Guillermo Del Pinal and Uli Sauerland). Published in *<font color="lightblue"> Semantics and Pragmatics</font>*.
 
