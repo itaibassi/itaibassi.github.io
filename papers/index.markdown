@@ -11,7 +11,7 @@ title: Papers
 
 `2025.`  [Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0) (upcoming). To appear in *<font color="lightblue"> SALT34 Proceedings</font>*
 
-`2024.`[Conditional Question as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/w1lsxps48qv75g048pkuw/CQs_submitted_paper.pdf?rlkey=agbv8d0hsx8atdha3kb7vslv7&dl=0) (with Tue Trinh). Submitted. 
+`2024.`[Conditional Question as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/c10cgdn7zn8hpwlonrbcx/CQs_manuscript.pdf?rlkey=sp0k06j0tmaypa9nv635q8v9o&dl=0) (with Tue Trinh). Submitted. 
 
 `2024.`[Decomposing logophoric pronouns: a
 presuppositional account of logophoric
