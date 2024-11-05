@@ -15,6 +15,10 @@ title: Recent Presentations
 `07/01/25.` Copied Relative Clauses and the Theory of phi-feature Mismatches.  Invited talk at Paris Lodron Universität, Salzburg.
 
 
+`18-20/12/24.`  The interpretation of logophoric and ordinary pronouns in Ewe: an experimental study
+ (with Silvia Silleresi, Abigail Bimpeh, Imke Driemel, Anastasia Nuworsu and Maria Teresa Guasti).
+ 
+
 `28/10/24.`  Conditional Questions as Matrix Questions with syntactic reconstruction (with Tue Trinh).
  [[Abstract](https://www.dropbox.com/scl/fi/0e5hjw2bs092kvkqwixms/IATL_abstract_Conditional-Questions.pdf?rlkey=7swkswvdma23byz01o3autow6&dl=0)]. A talk at *IATL workshop*,  Tel Aviv University. 
 
