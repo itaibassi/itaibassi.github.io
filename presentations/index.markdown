@@ -23,7 +23,8 @@ title: Recent Presentations
 On the Anti-Duality of Quantifiers
  (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer).   A talk a the *[Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)*,  University of Amsterdam.
 
-`07/12/24.`  Conditional Questions as Matrix Questions (with Tue Trinh).
+`07/12/24.`  Speech Acts in Grammar: 
+Arguments from Meta-questions (with Tue Trinh and Danny Fox).
  [[poster](https://www.dropbox.com/scl/fi/3yvg7eel1qo3e6wqtytrl/POSTER_speech-acts_mit.pdf?rlkey=k6n33eb0dx4mpof003nzbxd2h&dl=0)]. Poster presented at the *[Workshop in Honor of Irene Heim](https://linguistics.mit.edu/heimfest/)*. MIT.
 
 
