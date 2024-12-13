@@ -23,9 +23,6 @@ dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logoph
 
 
 
-[Tue Trinh](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0)
-
-
 
 `2024.`[Core Concepts and Indirect Alternatives:
 On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Under review, *<font color="lightblue"> Journal of Semantics</font>*.
