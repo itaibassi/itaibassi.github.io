@@ -13,8 +13,7 @@ title: Recent Presentations
 
 
 `07/01/25.` Copied Relative Clauses and the Theory of phi-feature Mismatches.  Invited talk at Paris Lodron Universität, Salzburg.
-[slides](https://www.dropbox.com/scl/fi/rcs6fbts169zo8ej4jj6y/Salzburg-talk-fake-indexicals.pdf?rlkey=6wkkz3v5mhjsppyy1vvsd4m5k&dl=0)
-
+[[Slides](https://www.dropbox.com/scl/fi/rcs6fbts169zo8ej4jj6y/Salzburg-talk-fake-indexicals.pdf?rlkey=6wkkz3v5mhjsppyy1vvsd4m5k&dl=0)]
 
 
 
