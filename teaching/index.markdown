@@ -7,7 +7,7 @@ title: Teaching
 
 
 
-# Courses
+# Recent courses taught
 
 `Spring 2025:` <font color="lightblue"> Anaphora in syntax and semantics</font>. Ben Gurion University, Israel. 
 
