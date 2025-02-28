@@ -9,12 +9,12 @@ title: Recent Presentations
 
 # Upcoming and recent presentations 
 
-`05/06/25.`  Keynote speaker at the *Workshop on indexical binding* (organized by Isabelle Charnavel), University of Zurich.
+`05/06/25.`  Keynote speaker at the *Workshop on indexical binding*, University of Geneva.
 
+`11-13/06/25.`  Question-Answer Coordinations as Answers in South Caucasian (with David Erschler) *[Caucasian Linguistics 2025](https://caucling2025.sciencesconf.org/)*, Université Lumière Lyon 2.
 
 `07/01/25.` Copied Relative Clauses and the Theory of phi-feature Mismatches.  Invited talk at Paris Lodron Universität, Salzburg.
 [[Slides](https://www.dropbox.com/scl/fi/rcs6fbts169zo8ej4jj6y/Salzburg-talk-fake-indexicals.pdf?rlkey=6wkkz3v5mhjsppyy1vvsd4m5k&dl=0)]
-
 
 
 `18-20/12/24.`  The interpretation of logophoric and ordinary pronouns in Ewe: an experimental study
