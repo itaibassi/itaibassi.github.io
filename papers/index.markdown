@@ -9,7 +9,7 @@ title: Papers
 
 # Upcoming and recent papers
 
-`2025.`  [Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0) (upcoming). To appear in *<font color="lightblue"> SALT34 Proceedings</font>*.
+`2025.`[Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0) (upcoming). To appear in *<font color="lightblue"> SALT34 Proceedings</font>*.
 
 `2024.`[Conditional Questions as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/c10cgdn7zn8hpwlonrbcx/CQs_manuscript.pdf?rlkey=sp0k06j0tmaypa9nv635q8v9o&dl=0) (with Tue Trinh). Submitted. 
 
@@ -17,10 +17,8 @@ title: Papers
 presuppositional account of logophoric
 dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Under review, *<font color="lightblue"> Natural Language Semantics</font>*. 
 
-
 `2024.`[An experimental study on the interpretation of logophoric and ordinary pronouns in Ewe.
 ](https://www.dropbox.com/scl/fi/3dou03ehjsz6au4px6ykp/An-experimental-study-on-the-interpretation-of-logophoric-and-ordinary-pronouns-in-Ewe.pdf?rlkey=7sid8pp7ctbp00e5sjwcydf5w&dl=0)   (with Silvia Silleresi, Abigail Anne Bimpeh, Imke Driemel, Anastasia Nuworsu, Teresa Guasti). Submitted to the *<font color="lightblue"> Proceedings of Amsterdam Colloquium 2024</font>*. 
-
 
 
 `2024.`[Core Concepts and Indirect Alternatives:
