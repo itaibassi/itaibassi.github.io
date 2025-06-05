@@ -9,7 +9,8 @@ title: Recent Presentations
 
 # Upcoming and recent presentations 
 
-`05/06/25.`  Keynote speaker at the *Workshop on indexical binding*, University of Geneva.
+`05/06/25.`  Invited talk at the [*Workshop on indexical binding*](https://sites.google.com/view/indexicalsgeneva/accueil), University of Geneva.
+
 
 `11/06/25.`  Question-Answer Coordinations as Answers in South Caucasian (with David Erschler) *[Caucasian Linguistics 2025](https://caucling2025.sciencesconf.org/)*, Université Lumière Lyon 2.
 
