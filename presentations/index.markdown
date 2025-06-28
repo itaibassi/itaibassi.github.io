@@ -9,8 +9,8 @@ title: Recent Presentations
 
 # Upcoming and recent presentations
 
-`01/07/25.`  Talk at the [*Workshop on indexical binding*](https://www.leibniz-zas.de/en/about-us/events/details/events/summer-workshop-on-asymmetries), ZAS, Berlin. 
-[[Slides](https://www.dropbox.com/scl/fi/g8wp7cej5f3qfofruw46v/Geneva_bound-indexicals_slides.pdf?rlkey=0seekk8dxqa2behunwdfrwxge&dl=0)]
+`01/07/25.`  Talk at the [*Summer workshop on (A)symmetries*](https://www.leibniz-zas.de/en/about-us/events/details/events/summer-workshop-on-asymmetries), ZAS, Berlin  (with Tue Trinh, Moysh bar-lev). 
+[[Slides](https://itaibassi.github.io/presentations/)]
 
 
 `05/06/25.`  Invited talk at the [*Workshop on indexical binding*](https://sites.google.com/view/indexicalsgeneva/accueil), University of Geneva. 
