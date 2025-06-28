@@ -10,7 +10,7 @@ title: Recent Presentations
 # Upcoming and recent presentations
 
 `01/07/25.`  Talk at the [*Summer workshop on (A)symmetries*](https://www.leibniz-zas.de/en/about-us/events/details/events/summer-workshop-on-asymmetries), ZAS, Berlin  (with Tue Trinh, Moysh bar-lev). 
-[[Slides](https://itaibassi.github.io/presentations/)]
+[[Slides](https://www.dropbox.com/scl/fi/jbjr679l6j8io2j22sw2h/ZAS-asymmetries-workshop_slides.pdf?rlkey=oq0uzlflr49y7fv8cube47q5k&e=1&dl=0)]
 
 
 `05/06/25.`  Invited talk at the [*Workshop on indexical binding*](https://sites.google.com/view/indexicalsgeneva/accueil), University of Geneva. 
