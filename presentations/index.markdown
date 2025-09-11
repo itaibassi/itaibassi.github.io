@@ -10,7 +10,7 @@ title: Recent Presentations
 # Upcoming and recent presentations
 
 `11/09/25.`  Invited Talk at the [*Workshop on Implicatures within TbiLLC 15*](https://events.illc.uva.nl/Tbilisi/Tbilisi2025/), Kutaisi, Georgia  (work with Tue Trinh, Moysh bar-lev). 
-[[Slides](https://www.dropbox.com/scl/fi/tzi1r5w2eopq1q0vdljpb/TbiLLC_implicatures_slides.pdf?rlkey=xmeuwc2mh4moh96nlcfdg55f3&dl=0)]
+[[Slides](https://www.dropbox.com/scl/fi/tzi1r5w2eopq1q0vdljpb/TbiLLC_implicatures_slides.pdf)]
 
 
 
