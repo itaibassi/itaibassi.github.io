@@ -9,7 +9,7 @@ title: Recent Presentations
 
 # Upcoming and recent presentations
 
-`11/09/25.`  Invited Talk at the [*Workshop on Implicatures in TbiLLC*](https://www.leibniz-zas.de/en/about-us/events/details/events/summer-workshop-on-asymmetries), Kutaisi, Georgia  (work with Tue Trinh, Moysh bar-lev). 
+`11/09/25.`  Invited Talk at the [*Workshop on Implicatures within TbiLLC 15*](https://events.illc.uva.nl/Tbilisi/Tbilisi2025/), Kutaisi, Georgia  (work with Tue Trinh, Moysh bar-lev). 
 [[Slides](https://www.dropbox.com/scl/fi/b7j4dzgv2x0q4eeqanyqd/TbiLLC_implicatures_slides.pdf?rlkey=a2ydudjh396y01ww4hehg34co&dl=0)]
 
 
