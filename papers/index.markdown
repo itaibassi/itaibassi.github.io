@@ -43,7 +43,7 @@ On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwp
 [There's also a [recorded talk](https://osf.io/w6pue) with [handout](https://osf.io/fp2ym) (WCCFL40); and a [poster](https://osf.io/bwa7d) (SALT32)]
 
 `2022.` Obligatory *de se* logophors in Ewe, Yoruba and Igbo: Variation and competition (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Published in [*<font color="lightblue"> WCCFL40 Proceedings</font>*](https://www.lingref.com/cpp/wccfl/40/index.html).
-[[slides](https://osf.io/p8gsv/); [paper](https://lingbuzz.net/lingbuzz/006770)]
+[[paper](hhttp://www.lingref.com/cpp/wccfl/40/paper3692.pdf); [slides](https://osf.io/p8gsv/)]
 
 
 # Recent
