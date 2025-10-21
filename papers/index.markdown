@@ -13,9 +13,9 @@ title: Papers
 
 `2024.`[Conditional Questions as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/c10cgdn7zn8hpwlonrbcx/CQs_manuscript.pdf?rlkey=sp0k06j0tmaypa9nv635q8v9o&dl=0) (with Tue Trinh). Submitted. 
 
-`2024.`[Decomposing logophoric pronouns: a
+`2025.`[Decomposing logophoric pronouns: a
 presuppositional account of logophoric
-dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Under review, *<font color="lightblue"> Natural Language Semantics</font>*. 
+dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). In press, *<font color="lightblue"> Natural Language Semantics</font>*. 
 
 `2024.`[An experimental study on the interpretation of logophoric and ordinary pronouns in Ewe.
 ](https://www.dropbox.com/scl/fi/3dou03ehjsz6au4px6ykp/An-experimental-study-on-the-interpretation-of-logophoric-and-ordinary-pronouns-in-Ewe.pdf?rlkey=7sid8pp7ctbp00e5sjwcydf5w&dl=0)   (with Silvia Silleresi, Abigail Anne Bimpeh, Imke Driemel, Anastasia Nuworsu, Teresa Guasti). Submitted to the *<font color="lightblue"> Proceedings of Amsterdam Colloquium 2024</font>*. 
@@ -42,7 +42,7 @@ On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwp
 `2022.` [Pre-DP *only* is a propositional operator at LF: A new argument from ellipsis](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.041) (with Aron Hirsch and Tue Trinh). *<font color="lightblue"> SALT32 Proceedings</font>*.
 [There's also a [recorded talk](https://osf.io/w6pue) with [handout](https://osf.io/fp2ym) (WCCFL40); and a [poster](https://osf.io/bwa7d) (SALT32)]
 
-`2022.` Obligatory *de se* logophors in Ewe, Yoruba and Igbo: Variation and competition (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). To appear in *<font color="lightblue"> WCCFL40 Proceedings</font>*.
+`2022.` Obligatory *de se* logophors in Ewe, Yoruba and Igbo: Variation and competition (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Published in [*<font color="lightblue"> WCCFL40 Proceedings</font>*](https://www.lingref.com/cpp/wccfl/40/index.html).
 [[slides](https://osf.io/p8gsv/); [paper](https://lingbuzz.net/lingbuzz/006770)]
 
 
