@@ -15,7 +15,7 @@ title: Papers
 
 `2025.`[Decomposing logophoric pronouns: a
 presuppositional account of logophoric
-dependencies](https://www.dropbox.com/scl/fi/jsx01gv767lx0w25524er/Strict_Logophors_2nd_round.pdf?rlkey=zy1wf07lasfuc5xmukmj7mmah&dl=0) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). In press, *<font color="lightblue"> Natural Language Semantics</font>*. 
+dependencies](https://link.springer.com/epdf/10.1007/s11050-025-09242-x?sharing_token=DiL3nTHHsXsL_m1IIwK7Fve4RwlQNchNByi7wbcMAY5Tt6Xbax8xjve6CvAduIH44hiLhdIrOevN4L3v9kk5L_m0I1cFdbvP5_h-jks1pG7a64WsV-h-xSlNk3LPkXunrov5OqjGIpc7S7PJRN-UcGSjDMaQxmpE2UYHmDGUcGQ%3D) (with Abigail Anne Bimpeh, Imke Driemel and Silvia Silleresi). Published in *<font color="lightblue"> Natural Language Semantics</font>*. 
 
 `2024.`[An experimental study on the interpretation of logophoric and ordinary pronouns in Ewe.
 ](https://www.dropbox.com/scl/fi/3dou03ehjsz6au4px6ykp/An-experimental-study-on-the-interpretation-of-logophoric-and-ordinary-pronouns-in-Ewe.pdf?rlkey=7sid8pp7ctbp00e5sjwcydf5w&dl=0)   (with Silvia Silleresi, Abigail Anne Bimpeh, Imke Driemel, Anastasia Nuworsu, Teresa Guasti). Submitted to the *<font color="lightblue"> Proceedings of Amsterdam Colloquium 2024</font>*. 
