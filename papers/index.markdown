@@ -10,7 +10,7 @@ title: Papers
 # Upcoming and recent papers
 
 `2026.`[Core Concepts and Indirect Alternatives:
-On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). In press, *<font color="lightblue"> Journal of Semantics</font>*.
+On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/geg1zdojcxkr2rivpvaey/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=s8r56bpenem4iyn3o0j7za70x&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). In press, *<font color="lightblue"> Journal of Semantics</font>*.
 
 `2025.`[Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0) (upcoming). To appear in *<font color="lightblue"> SALT34 Proceedings</font>*.
 
