@@ -9,6 +9,9 @@ title: Papers
 
 # Upcoming and recent papers
 
+`2026.`[Core Concepts and Indirect Alternatives:
+On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). In press, *<font color="lightblue"> Journal of Semantics</font>*.
+
 `2025.`[Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0) (upcoming). To appear in *<font color="lightblue"> SALT34 Proceedings</font>*.
 
 `2024.`[Conditional Questions as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/c10cgdn7zn8hpwlonrbcx/CQs_manuscript.pdf?rlkey=sp0k06j0tmaypa9nv635q8v9o&dl=0) (with Tue Trinh). Submitted. 
@@ -20,9 +23,6 @@ dependencies](https://link.springer.com/epdf/10.1007/s11050-025-09242-x?sharing_
 `2024.`[An experimental study on the interpretation of logophoric and ordinary pronouns in Ewe.
 ](https://www.dropbox.com/scl/fi/3dou03ehjsz6au4px6ykp/An-experimental-study-on-the-interpretation-of-logophoric-and-ordinary-pronouns-in-Ewe.pdf?rlkey=7sid8pp7ctbp00e5sjwcydf5w&dl=0)   (with Silvia Silleresi, Abigail Anne Bimpeh, Imke Driemel, Anastasia Nuworsu, Teresa Guasti). Submitted to the *<font color="lightblue"> Proceedings of Amsterdam Colloquium 2024</font>*. 
 
-
-`2024.`[Core Concepts and Indirect Alternatives:
-On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/3n8l6ti2rkxwpof4q6lvf/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=couotuw3jek8by9kdh687kl9v&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Under review, *<font color="lightblue"> Journal of Semantics</font>*.
 
 `2024.`[Questions and Connectives](trinhhuutue.com/wp-content/uploads/2024/08/trinhbassi2024questions.pdf) (with Tue Trinh). Under review, *<font color="lightblue"> Proceedings of TLLM</font>*.
 
