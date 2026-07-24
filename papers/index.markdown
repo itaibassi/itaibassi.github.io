@@ -25,7 +25,7 @@ dependencies](https://link.springer.com/epdf/10.1007/s11050-025-09242-x?sharing_
 `2024.`[An experimental study on the interpretation of logophoric and ordinary pronouns in Ewe.
 ](https://www.dropbox.com/scl/fi/3dou03ehjsz6au4px6ykp/An-experimental-study-on-the-interpretation-of-logophoric-and-ordinary-pronouns-in-Ewe.pdf?rlkey=7sid8pp7ctbp00e5sjwcydf5w&dl=0)   (with Silvia Silleresi, Abigail Anne Bimpeh, Imke Driemel, Anastasia Nuworsu, Teresa Guasti). The *<font color="lightblue"> Proceedings of Amsterdam Colloquium 2024</font>*. 
 
-`2024.`[Conditional Questions as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/c10cgdn7zn8hpwlonrbcx/CQs_manuscript.pdf?rlkey=sp0k06j0tmaypa9nv635q8v9o&dl=0) (with Tue Trinh). In Progress.
+`2024.`[Conditional Questions as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/6lct72ppsm8js2i3j6etz/_Bassi_Trinh_CQs-draft.pdf?rlkey=qzqjx1lzoqlg5um6gtjthgxg7&st=9d80l73i&dl=0) (with Tue Trinh). Under Review.
 
 `2024.`[Questions and Connectives](trinhhuutue.com/wp-content/uploads/2024/08/trinhbassi2024questions.pdf) (with Tue Trinh). Under review, *<font color="lightblue"> Proceedings of TLLM</font>*.
 
