@@ -6,21 +6,24 @@ title: Recent Presentations
 
 
 
-
 # Upcoming and recent presentations
+
+`04/12/25.`  Weak Crossover and Global Competition. Invited Talk at TAU Linguistics Colloquium.
+  [*Handout*](https://www.dropbox.com/scl/fi/uzvcf6fodactjkzbk9pde/TAU_Colloq_2025_WCO.pdf?rlkey=ozxpgwkupd5q5rgikpvdqfygr&dl=0), Tel Aviv University.
+
+`17/10/25.`  A unified Theory of Meta-questions. Talk at  
+ the [*NELS 56 Conference*](https://wp.nyu.edu/artsampscience-nels56/?s=bassi/), NYU  (with Tue Trinh, Danny Fox). 
+
 
 `11/09/25.`  Invited Talk at the [*Workshop on Implicatures within TbiLLC 15*](https://events.illc.uva.nl/Tbilisi/Tbilisi2025/), Kutaisi, Georgia  (work with Tue Trinh, Moysh bar-lev). 
 [[Slides](https://www.dropbox.com/scl/fi/tzi1r5w2eopq1q0vdljpb/TbiLLC_implicatures_slides.pdf)]
 
 
-
 `01/07/25.`  Talk at the [*Summer workshop on (A)symmetries*](https://www.leibniz-zas.de/en/about-us/events/details/events/summer-workshop-on-asymmetries), ZAS, Berlin  (with Tue Trinh, Moysh bar-lev). 
 [[Slides](https://www.dropbox.com/scl/fi/jbjr679l6j8io2j22sw2h/ZAS-asymmetries-workshop_slides.pdf?rlkey=oq0uzlflr49y7fv8cube47q5k&e=1&dl=0)]
 
-
 `05/06/25.`  Invited talk at the [*Workshop on indexical binding*](https://sites.google.com/view/indexicalsgeneva/accueil), University of Geneva. 
 [[Slides](https://www.dropbox.com/scl/fi/g8wp7cej5f3qfofruw46v/Geneva_bound-indexicals_slides.pdf?rlkey=0seekk8dxqa2behunwdfrwxge&dl=0)]
-
 
 
 `11/06/25.`  Question-Answer Coordinations as Answers in South Caucasian (with David Erschler) *[Caucasian Linguistics 2025](https://caucling2025.sciencesconf.org/)*, Université Lumière Lyon 2.
@@ -34,8 +37,7 @@ title: Recent Presentations
   A talk a the *[Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)*,  University of Amsterdam.
 
 `18-20/12/24.`  Core Concepts and Indirect Alternatives:
-On the Anti-Duality of Quantifiers
- (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer).   A talk a the *[Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)*,  University of Amsterdam.
+On the Anti-Duality of Quantifiers (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer).   A talk a the *[Amsterdam Colloquium 2024](https://events.illc.uva.nl/AC/AC2024/Conference/)*,  University of Amsterdam.
 
 `07/12/24.`  Speech Acts in Grammar: 
 Arguments from Meta Questions (with Tue Trinh and Danny Fox).
