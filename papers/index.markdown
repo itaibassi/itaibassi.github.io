@@ -30,8 +30,6 @@ dependencies](https://link.springer.com/epdf/10.1007/s11050-025-09242-x?sharing_
 
 `2024.`[Questions and Connectives](trinhhuutue.com/wp-content/uploads/2024/08/trinhbassi2024questions.pdf) (with Tue Trinh). Published in the *<font color="lightblue"> Proceedings of Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning (TLLM)</font>*.
 
-
-
 `2023.`[Free Choice and Presuppositional Exhaustification](https://semprag.org/index.php/sp/article/view/sp.17.3) (with Guillermo Del Pinal and Uli Sauerland). Published in *<font color="lightblue"> Semantics and Pragmatics</font>*.
 
 `2023.`[Excursive Questions](https://www.degruyter.com/document/doi/10.1515/opli-2022-0232/html) (with Tue Trinh). *<font color="lightblue"> Open Linguistics</font>*.
@@ -40,8 +38,7 @@ dependencies](https://link.springer.com/epdf/10.1007/s11050-025-09242-x?sharing_
 
 `2023.`[An Algebra of Thought that predicts key aspects of language structure](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1088) (with Uli Sauerland, Cory Bill, Abigail Bimpeh, Aron Hirsch, Paloma Jeretič, Marie-Christine Meyer, Andreea Nicolae, Kazuko Yatsushiro, Artemis Alexiadou). To appear in  *<font color="lightblue"> Proceedings of Sinn und Bedeutung 27</font>*.
 
-`2023.` On Sloppy non-pronominals (with Danny Fox). Email me for a copy.
-
+<!-- `2023.` On Sloppy non-pronominals (with Danny Fox). Email me for a copy. -->
 
 `2022.` [Pre-DP *only* is a propositional operator at LF: A new argument from ellipsis](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.041) (with Aron Hirsch and Tue Trinh). *<font color="lightblue"> SALT32 Proceedings</font>*.
 [There's also a [recorded talk](https://osf.io/w6pue) with [handout](https://osf.io/fp2ym) (WCCFL40); and a [poster](https://osf.io/bwa7d) (SALT32)]
