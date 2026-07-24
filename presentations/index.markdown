@@ -9,7 +9,7 @@ title: Recent Presentations
 # Upcoming and recent presentations
 
 `04/12/25.`  Weak Crossover and Global Competition. Invited Talk at TAU Linguistics Colloquium.
-  [*Handout*](https://www.dropbox.com/scl/fi/uzvcf6fodactjkzbk9pde/TAU_Colloq_2025_WCO.pdf?rlkey=ozxpgwkupd5q5rgikpvdqfygr&dl=0), Tel Aviv University.
+  [[Handout](https://www.dropbox.com/scl/fi/uzvcf6fodactjkzbk9pde/TAU_Colloq_2025_WCO.pdf?rlkey=ozxpgwkupd5q5rgikpvdqfygr&dl=0)].
 
 `17/10/25.`  A unified Theory of Meta-questions. Talk at  
  the [*NELS 56 Conference*](https://wp.nyu.edu/artsampscience-nels56/?s=bassi/), NYU  (with Tue Trinh, Danny Fox). 
