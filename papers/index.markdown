@@ -28,7 +28,7 @@ dependencies](https://link.springer.com/epdf/10.1007/s11050-025-09242-x?sharing_
 
 `2024.`[Conditional Questions as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/6lct72ppsm8js2i3j6etz/_Bassi_Trinh_CQs-draft.pdf?rlkey=qzqjx1lzoqlg5um6gtjthgxg7&st=9d80l73i&dl=0) (with Tue Trinh). Under Review.
 
-`2024.`[Questions and Connectives](trinhhuutue.com/wp-content/uploads/2024/08/trinhbassi2024questions.pdf) (with Tue Trinh). Under review, *<font color="lightblue"> Proceedings of TLLM</font>*.
+`2024.`[Questions and Connectives](trinhhuutue.com/wp-content/uploads/2024/08/trinhbassi2024questions.pdf) (with Tue Trinh). Published in the *<font color="lightblue"> Proceedings of Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning (TLLM)</font>*.
 
 
 
