@@ -18,6 +18,7 @@ title: Papers
 
 <!-- `2025.`[Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0) (upcoming). To appear in *<font color="lightblue"> SALT34 Proceedings</font>*. -->
 
+`2026.`[Symmetry breaking, Partition by Exhaustification, and Fatal Competition](https://ling.auf.net/lingbuzz/008962) (with Tue Trinh, Moshe E. Bar-Lev). Under Review, *<font color="lightblue"> Linguistics \& Philosophy</font>*.  
 
 `2025.`[Decomposing logophoric pronouns: a
 presuppositional account of logophoric
