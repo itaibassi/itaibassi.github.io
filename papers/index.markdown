@@ -10,11 +10,13 @@ title: Papers
 `2026.`[Infelicity with Homogeneity: Focus, not
 (necessarily) Presupposition](https://www.dropbox.com/scl/fi/8i4zyvql11gl0xgpn8z15/Homogeneity_JoS_paper_Bar-lev-Bassi2026.pdf?rlkey=b0wxljkj4ftb4395z6nscptx4&st=pmdwzpxg&dl=0) (with Moshe E. Bar-Lev). In press, *<font color="lightblue"> Journal of Semantics</font>*.
 
+
+`2026.`[Weak Crossover and Global Competition](https://www.dropbox.com/scl/fi/2k55v7gba1kcv5g3t00ly/Paper_for_Danny_s_Festschrift.pdf?rlkey=4g23xnfc8tb463ry2dwbe60h1&st=jrsna8z2&dl=0). In press, in *<font color="lightblue"> Festschrift for Danny Fox</font>*.
+
 `2026.`[Core concepts and indirect alternatives: on the anti-duality of quantifiers](https://academic.oup.com/jos/article/43/1/17/8659473) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Published in *<font color="lightblue"> Journal of Semantics</font>*.
 
 <!-- `2025.`[Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0) (upcoming). To appear in *<font color="lightblue"> SALT34 Proceedings</font>*. -->
 
-`2024.`[Conditional Questions as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/c10cgdn7zn8hpwlonrbcx/CQs_manuscript.pdf?rlkey=sp0k06j0tmaypa9nv635q8v9o&dl=0) (with Tue Trinh). In Progress.
 
 `2025.`[Decomposing logophoric pronouns: a
 presuppositional account of logophoric
@@ -23,6 +25,7 @@ dependencies](https://link.springer.com/epdf/10.1007/s11050-025-09242-x?sharing_
 `2024.`[An experimental study on the interpretation of logophoric and ordinary pronouns in Ewe.
 ](https://www.dropbox.com/scl/fi/3dou03ehjsz6au4px6ykp/An-experimental-study-on-the-interpretation-of-logophoric-and-ordinary-pronouns-in-Ewe.pdf?rlkey=7sid8pp7ctbp00e5sjwcydf5w&dl=0)   (with Silvia Silleresi, Abigail Anne Bimpeh, Imke Driemel, Anastasia Nuworsu, Teresa Guasti). The *<font color="lightblue"> Proceedings of Amsterdam Colloquium 2024</font>*. 
 
+`2024.`[Conditional Questions as Matrix Questions with Syntactic Reconstruction](https://www.dropbox.com/scl/fi/c10cgdn7zn8hpwlonrbcx/CQs_manuscript.pdf?rlkey=sp0k06j0tmaypa9nv635q8v9o&dl=0) (with Tue Trinh). In Progress.
 
 `2024.`[Questions and Connectives](trinhhuutue.com/wp-content/uploads/2024/08/trinhbassi2024questions.pdf) (with Tue Trinh). Under review, *<font color="lightblue"> Proceedings of TLLM</font>*.
 
