@@ -47,7 +47,7 @@ dependencies](https://link.springer.com/epdf/10.1007/s11050-025-09242-x?sharing_
 [[paper](hhttp://www.lingref.com/cpp/wccfl/40/paper3692.pdf); [slides](https://osf.io/p8gsv/)]
 
 
-# Recent
+# Less recent
 
 
 `2022.` [A prosodic theory of possible ellipsis remnants](https://www.glossa-journal.org/article/id/5747/) (with Justin Colley). Published in *<font color="lightblue"> Glossa </font>* 7(1).
