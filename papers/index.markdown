@@ -10,8 +10,7 @@ title: Papers
 `2026.`[Infelicity with Homogeneity: Focus, not
 (necessarily) Presupposition](https://www.dropbox.com/scl/fi/8i4zyvql11gl0xgpn8z15/Homogeneity_JoS_paper_Bar-lev-Bassi2026.pdf?rlkey=b0wxljkj4ftb4395z6nscptx4&st=pmdwzpxg&dl=0) (with Moshe E. Bar-Lev). In press, *<font color="lightblue"> Journal of Semantics</font>*.
 
-`2026.`[Core Concepts and Indirect Alternatives:
-On the Anti-Duality of Quantifiers](https://www.dropbox.com/scl/fi/geg1zdojcxkr2rivpvaey/Core-Concepts-and-Indirect-Alternatives_JoS.pdf?rlkey=s8r56bpenem4iyn3o0j7za70x&dl=0) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). In press, *<font color="lightblue"> Journal of Semantics</font>*.
+`2026.`[Core concepts and indirect alternatives: on the anti-duality of quantifiers](https://academic.oup.com/jos/article/43/1/17/8659473) (with Paloma Jeretič, Aurore Gonzalez, Uli Sauerland, Kazuko Yatsushiro, Marie-Christine Meyer). Published in *<font color="lightblue"> Journal of Semantics</font>*.
 
 `2025.`[Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0) (upcoming). To appear in *<font color="lightblue"> SALT34 Proceedings</font>*.
 
