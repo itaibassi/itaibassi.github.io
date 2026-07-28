@@ -9,8 +9,9 @@ title: Recent Presentations
 # Recent talks and presentations
 
 
-`04/12/26.`  Weak Crossover and Global Competition. Invited Talk at TAU Linguistics Colloquium.
-  [[Handout](https://www.dropbox.com/scl/fi/uzvcf6fodactjkzbk9pde/TAU_Colloq_2025_WCO.pdf?rlkey=ozxpgwkupd5q5rgikpvdqfygr&dl=0)].
+`29/07/26.`  Scalar Implicatures: not all are derived from
+lexical alternatives (with Paloma Jeretič, Aurore Gonzalez, Andreea Nicolae, Uli Sauerland, Kazuko Yatsushiro). Talk at [*SALT 36*](https://saltconf.github.io/salt36/), University of Buenos Aires.
+  [[Slides](soon)].
 
 `04/12/25.`  Weak Crossover and Global Competition. Invited Talk at TAU Linguistics Colloquium.
   [[Handout](https://www.dropbox.com/scl/fi/uzvcf6fodactjkzbk9pde/TAU_Colloq_2025_WCO.pdf?rlkey=ozxpgwkupd5q5rgikpvdqfygr&dl=0)].
