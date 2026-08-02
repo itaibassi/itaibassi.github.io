@@ -11,7 +11,7 @@ title: Recent Presentations
 
 `29/07/26.`  Scalar Implicatures: not all are derived from
 lexical alternatives (with Paloma Jeretič, Aurore Gonzalez, Andreea Nicolae, Uli Sauerland, Kazuko Yatsushiro). Talk at [*SALT 36*](https://saltconf.github.io/salt36/), University of Buenos Aires.
-  [[Slides](soon)].
+  [[Slides](https://www.dropbox.com/scl/fi/fgkcit8gfpn6t71a1sx4i/SALT2026_slides.pdf?rlkey=cpuh3jve9dbgjqomnwdq9fnu8&dl=0)].
 
 `04/12/25.`  Weak Crossover and Global Competition. Invited Talk at TAU Linguistics Colloquium.
   [[Handout](https://www.dropbox.com/scl/fi/uzvcf6fodactjkzbk9pde/TAU_Colloq_2025_WCO.pdf?rlkey=ozxpgwkupd5q5rgikpvdqfygr&dl=0)].
