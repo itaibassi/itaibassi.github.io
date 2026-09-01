@@ -5,7 +5,7 @@ title: Papers
 
 
 
-# Upcoming and recent papers
+# Upcoming and recent papersss
 
 `2026.`[Infelicity with Homogeneity: Focus, not
 (necessarily) Presupposition](https://www.dropbox.com/scl/fi/8i4zyvql11gl0xgpn8z15/Homogeneity_JoS_paper_Bar-lev-Bassi2026.pdf?rlkey=b0wxljkj4ftb4395z6nscptx4&st=pmdwzpxg&dl=0) (with Moshe E. Bar-Lev). In press, *<font color="lightblue"> Journal of Semantics</font>*.
