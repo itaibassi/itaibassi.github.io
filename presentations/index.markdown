@@ -4,8 +4,9 @@ title: Recent Presentations
 ---
 
 
-# Recent talks and presentations
 
+
+# Recent talks and presentations
 
 
 `29/07/26.`  Scalar Implicatures: not all are derived from
