@@ -8,6 +8,8 @@ title: Recent Presentations
 
 # Recent talks and presentations
 
+ddddd
+
 `26/09/26.`  Weak Crossover and Global Competition. Poster presented at 
 [*the workshop in honor of Danny Fox*](https://linguistics.mit.edu/foxfest/), MIT. 
 [[Poster](https://www.dropbox.com/scl/fi/7zmuj8twoskj1fci97bmy/Poster-FoxFest.pdf?rlkey=1yshk2kfci1w8puvml6hdptqc&dl=0)].
