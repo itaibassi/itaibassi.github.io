@@ -8,7 +8,7 @@ title: Papers
 # Upcoming and recent papers
 
 `2026.`[Infelicity with Homogeneity: Focus, not
-(necessarily) Presupposition](https://academic.oup.com/jos/advance-article/doi/10.1093/jos/ffag004/8768863) (with Moshe E. Bar-Lev). In press, *<font color="lightblue"> Journal of Semantics</font>*.
+(necessarily) Presupposition](https://academic.oup.com/jos/advance-article/doi/10.1093/jos/ffag004/8768863) (with Moshe E. Bar-Lev). Published in *<font color="lightblue"> Journal of Semantics</font>*.
 
 `2026.`[Weak Crossover and Global Competition](https://www.dropbox.com/scl/fi/2k55v7gba1kcv5g3t00ly/Paper_for_Danny_s_Festschrift.pdf?rlkey=4g23xnfc8tb463ry2dwbe60h1&st=jrsna8z2&dl=0). Published  in [*<font color="lightblue"> A Festschrift for Danny Fox</font>*](https://www.amazon.com/dp/B0HJXL3375?lv=shuf&channelId=500&plpRedirect=mhFallback).
 
