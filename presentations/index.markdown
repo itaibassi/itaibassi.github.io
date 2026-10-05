@@ -10,9 +10,11 @@ title: Recent Presentations
 
 `15/12/26.`  Colloquium invited Talk.  Department of   English Literature and Linguistics, Bar Ilan University.
 
-
 `12/11/26.`  Colloquium invited Talk.  Department of   Linguistics, Tel Aviv University.
 
+`26/09/26.`  Weak Crossover and Global Competition. Poster presented at
+[*the workshop in honor of Danny Fox*](https://linguistics.mit.edu/foxfest/), MIT.
+[[Poster](https://www.dropbox.com/scl/fi/7zmuj8twoskj1fci97bmy/Poster-FoxFest.pdf?rlkey=1yshk2kfci1w8puvml6hdptqc&dl=0)].
 
 `29/07/26.`  Scalar Implicatures: not all are derived from
 lexical alternatives (with Paloma Jeretič, Aurore Gonzalez, Andreea Nicolae, Uli Sauerland, Kazuko Yatsushiro). Talk at [*SALT 36*](https://saltconf.github.io/salt36/), University of Buenos Aires.
