@@ -8,6 +8,11 @@ title: Recent Presentations
 
 # Recent talks and presentations
 
+`15/12/26.`  Colloquium invited Talk.  Department of   English Literature and Linguistics, Bar Ilan University.
+
+
+`12/11/26.`  Colloquium invited Talk.  Department of   Linguistics, Tel Aviv University.
+
 
 `29/07/26.`  Scalar Implicatures: not all are derived from
 lexical alternatives (with Paloma Jeretič, Aurore Gonzalez, Andreea Nicolae, Uli Sauerland, Kazuko Yatsushiro). Talk at [*SALT 36*](https://saltconf.github.io/salt36/), University of Buenos Aires.
