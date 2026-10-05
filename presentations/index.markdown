@@ -4,8 +4,6 @@ title: Recent Presentations
 ---
 
 
-
-
 # Recent talks and presentations
 
 
