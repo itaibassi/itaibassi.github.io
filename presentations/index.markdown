@@ -16,8 +16,6 @@ title: Recent Presentations
 [*Words, Worlds, and Machines: Literature, Linguistics, and Philosophy in the Age of Artificial Intelligence*](https://ussh.vnu.edu.vn/vi/dien-dan-mua-thu-ha-noi/hoi-thao-toa-dam-khoa-hoc/call-for-paper-international-conference-words-worlds-and-machines-literature-linguistics-and-philosophy-in-the-age-of-artificial-intelligence-10.html) in the University of Social Sciences and Humanities, Vietnam National University, Hanoi.
 
 
-
-
 `26/09/26.`  Weak Crossover and Global Competition. Poster presented at
 [*the workshop in honor of Danny Fox*](https://linguistics.mit.edu/foxfest/), MIT.
 [[Poster](https://www.dropbox.com/scl/fi/7zmuj8twoskj1fci97bmy/Poster-FoxFest.pdf?rlkey=1yshk2kfci1w8puvml6hdptqc&dl=0)].
