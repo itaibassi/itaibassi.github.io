@@ -7,10 +7,10 @@ title: Papers
 
 # Upcoming and recent papers
 
-
 `2026.`[Infelicity with Homogeneity: Focus, not
-(necessarily) Presupposition](https://academic.oup.com/jos/advance-article/doi/10.1093/jos/ffag004/8768863) (with Moshe E. Bar-Lev). Published in *<font color="lightblue"> Journal of Semantics</font>*.
+(necessarily) Presupposition](https://academic.oup.com/jos/advance-article/doi/10.1093/jos/ffag004/8768863) (with Moshe E. Bar-Lev). In press, *<font color="lightblue"> Journal of Semantics</font>*.
 
+`2026.`[Weak Crossover and Global Competition](https://www.dropbox.com/scl/fi/2k55v7gba1kcv5g3t00ly/Paper_for_Danny_s_Festschrift.pdf?rlkey=4g23xnfc8tb463ry2dwbe60h1&st=jrsna8z2&dl=0). In press, in *<font color="lightblue"> Festschrift for Danny Fox</font>*.
 
 `2026.`[A unified theory of meta-questions](https://ling.auf.net/lingbuzz/010050) (with Tue Trinh and Danny Fox). Submitted to *<font color="lightblue"> Proceedings of NELS 56</font>*.
 
@@ -18,7 +18,7 @@ title: Papers
 
 <!-- `2025.`[Pathological Questions, focus, and unacceptable ellipsis](https://www.dropbox.com/scl/fi/vu9aqo0ng6a9we8u4nhqp/Bassi_SALT34-Rochester_slides.pdf?rlkey=5vp8v72cocjw5jqxia4int386&dl=0) (upcoming). To appear in *<font color="lightblue"> SALT34 Proceedings</font>*. -->
 
-`2026.`[Symmetry breaking, Partition by Exhaustification, and Fatal Competition](https://ling.auf.net/lingbuzz/008962) (with Tue Trinh, Moshe E. Bar-Lev). under Review.
+`2026.`[Symmetry breaking, Partition by Exhaustification, and Fatal Competition](https://ling.auf.net/lingbuzz/008962) (with Tue Trinh, Moshe E. Bar-Lev). Manuscript.
 
 <!-- `2026.`[Symmetry breaking, Partition by Exhaustification, and Fatal Competition](https://ling.auf.net/lingbuzz/008962) (with Tue Trinh, Moshe E. Bar-Lev). Under Review, *<font color="lightblue"> Linguistics \& Philosophy</font>*.  -->
 
@@ -77,6 +77,5 @@ dependencies](https://link.springer.com/epdf/10.1007/s11050-025-09242-x?sharing_
 `2018.` [Equational-intensional relative clauses with syntactic reconstruction](https://semanticsarchive.net/Archive/GE4MWViN/Bassi.pdf)  (with Ezer Rasin).  Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 22</font>*.
 
 `2017.`  [A Unified Existential Semantics for Bare Conditionals](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/download/128/71/) (with Moshe E. Bar-Lev). Published in *<font color="lightblue"> Proceedings of Sinn und Bedeutung 21</font>*.
-
 
 
