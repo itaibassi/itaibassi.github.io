@@ -7,7 +7,6 @@ title: Papers
 
 # Upcoming and recent papers
 
-sssss
 
 `2026.`[Infelicity with Homogeneity: Focus, not
 (necessarily) Presupposition](https://academic.oup.com/jos/advance-article/doi/10.1093/jos/ffag004/8768863) (with Moshe E. Bar-Lev). Published in *<font color="lightblue"> Journal of Semantics</font>*.
